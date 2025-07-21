@@ -29,8 +29,4 @@ Config = {
     InvoiceDays = 172800000, -- 2 days in milliseconds
     InvoiceIncrease = 100    -- $ amount added every period for due invoices
 }
-/bills – View your unpaid invoices
 
-/billp – Open the invoice creation menu (job restricted)
-
-/chbills [id] – View invoices of another player (job restricted)
